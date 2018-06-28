@@ -1,0 +1,13 @@
+.button {
+    background-color: #323232; /* Green */
+    border: none;
+    color: white;
+    height:7em;
+    width:7em;
+    border-radius: 50%;
+  }
+
+.buttonIcons {
+  width: 5em;
+  height: 5em;
+}
